@@ -8,7 +8,7 @@ You need Node to build this site. In the root run:
 ```
 npm install
 ```
-hello
+hellobx
 ## build
 ```
 npm run build
